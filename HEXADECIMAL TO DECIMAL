@@ -1,0 +1,5 @@
+#include<stdio.h>
+void main(){ 
+  int a=66;
+  printf("decimal number: %d",a);
+}
