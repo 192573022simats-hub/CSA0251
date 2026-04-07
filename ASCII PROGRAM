@@ -1,0 +1,8 @@
+#include<stdio.h>
+void main(){
+  char ch='g';
+  printf("char=%c\n",ch);
+  printf("char=%d\n",ch);
+  printf("char1=%c\n",ch+9);
+  printf("char1=%d\n",ch+9;
+}
