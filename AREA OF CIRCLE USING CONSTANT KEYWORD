@@ -1,0 +1,7 @@
+#iclude<stdio.h>
+void main(){
+  const float pi;
+  int r=10;
+  area=3.14*10*10;
+  printf("area of circle= %2f",area);
+}
