@@ -1,0 +1,9 @@
+#include<stdio.h>
+void main(){
+  int a=5,b=2,q,r;
+  print("a=%d,b=%d\n",a,b0;
+  q=a/b;
+  r=a%b;
+  printf("quotient=%d",q);
+  printf("remainder=%d,r);
+}
