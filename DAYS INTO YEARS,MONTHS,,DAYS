@@ -1,0 +1,12 @@
+#include<stdio.h>
+void main(){
+  int a, years, months, days;
+  scanf("%d",&a);
+  years=a/365;
+  days=a%365;
+  months=days/30;
+  rdays=days%30;
+  printf("years=%d\n",years);
+  printf("months=%d\n",months);
+  printf("days=%d\n",rdays);
+}
