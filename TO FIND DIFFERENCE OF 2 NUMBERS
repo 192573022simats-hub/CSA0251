@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main(){
+  int a,b,difference;
+  scanf("%d %d",&a,&b);
+  difference=a-b;
+  printf("difference=%d\n",difference);
+}
