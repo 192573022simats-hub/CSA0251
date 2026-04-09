@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main() {
+    int a, b, quo;
+    scanf("%d %d", &a, &b);
+    quo = a/b;
+    printf("Quotient = %d\n", quo);
+    return 0;
+}
