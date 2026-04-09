@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main() {
+    int a, b, pr;
+    scanf("%d %d", &a, &b);
+    pr = a*b;
+    printf("Product = %d\n", pr);
+    return 0;
+}
