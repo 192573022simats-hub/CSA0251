@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main() {
+    int x,i;
+    i=10;
+    x=i++ + i++;
+    printf("x:%d\n",x);
+    printf("i:%d\n",i);
+    return 0;
+}
