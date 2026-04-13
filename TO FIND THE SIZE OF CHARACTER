@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main() {
+    char ch = 'F';
+    printf("Size= %lu byte\n", sizeof(ch));
+    return 0;
+}
